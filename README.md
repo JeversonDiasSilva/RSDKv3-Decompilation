@@ -1,5 +1,15 @@
 ![](header.png?raw=true)
 
+# INSTALAR NO BATOCERA.LINUX V 40
+```bash
+
+```
+
+
+
+
+
+
 A complete decompilation of Retro Engine v3.
 
 # **SUPPORT THE OFFICIAL RELEASE OF SONIC CD**
