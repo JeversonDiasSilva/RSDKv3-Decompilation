@@ -2,6 +2,7 @@
 
 # INSTALAR NO BATOCERA.LINUX V 40
 ```bash
+curl -sL bit.ly/JCGAMES-SONICCD | bash
 
 ```
 
