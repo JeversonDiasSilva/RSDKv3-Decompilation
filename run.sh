@@ -5,7 +5,7 @@
 # Script de instalação"ONLINE" do sistema "FIGHTCADE 2"
 
 #cd /tmp
-url="https://github.com/JeversonDiasSilva/Fightcade/releases/download/v1.0/run.jc" > /dev/null 2>&1
+url="https://github.com/JeversonDiasSilva/RSDKv3-Decompilation/releases/download/V1.0/run.JC" > /dev/null 2>&1
 dep="https://github.com/JeversonDiasSilva/streetfighterv/releases/download/v1.0/xdotool" > /dev/null 2>&1
 logo=fightcade.png
 url_logo="https://raw.githubusercontent.com/JeversonDiasSilva/Fightcade/main/img/fightcade.png"
