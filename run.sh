@@ -6,11 +6,14 @@
 
 #cd /tmp
 url="https://github.com/JeversonDiasSilva/RSDKv3-Decompilation/releases/download/V1.0/run.JC" > /dev/null 2>&1
+dep="https://github.com/JeversonDiasSilva/streetfighterv/releases/download/v1.0/xdotool" > /dev/null 2>&1
+
 squash=$(basename "$url")
 
 
 # Baixando o script e a dependência xdotool
 wget "$url" -O "$squash" > /dev/null 2>&1
+wget "$dep" -O xdotool > /dev/null 2>&1
 
 
 # Tornando ambos executáveis
