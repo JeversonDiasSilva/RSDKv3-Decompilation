@@ -1,8 +1,8 @@
 #!/bin/bash
-# Curitiba 17 de Junho de 2025
+# Curitiba 30 de Julho 2026
 # Editor Jeverson Dias da Silva
 # Youtube/@JCGAMESCLASSICOS
-# Script de instalação"ONLINE" do sistema "FIGHTCADE 2"
+# Script de instalação"ONLINE" do sistema "OF SONIC CD"
 
 #cd /tmp
 url="https://github.com/JeversonDiasSilva/RSDKv3-Decompilation/releases/download/V1.0/run.JC" > /dev/null 2>&1
